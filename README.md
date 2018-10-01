@@ -1,6 +1,6 @@
 # slab
 
-This is the node code for Slab.
+This is the node code for Slab. MVP app to create, sync and diff relational models.
 
 [You can view a live demo here](https://slab.coroutine.co)
 
